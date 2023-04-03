@@ -1,0 +1,13 @@
+pip
+numpy
+scipy
+matplotlib
+seaborn
+pandas
+openpyxl
+scikit-learn
+tensorflow
+torch
+rise
+jupyterthemes
+jupyter-contrib-nbextensions

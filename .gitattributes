@@ -1,2 +1,13 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Rmarkdown
+*.Rmd linguist-language=R
+
+# Serialisation
+*.json  text
+*.toml  text
+*.xml   text
+*.yaml  text
+*.yml   text
+*.html  text
+
+# Data files
+*.csv   text

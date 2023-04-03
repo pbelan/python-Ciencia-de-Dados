@@ -1,0 +1,19 @@
+# YAML 1.2
+---
+authors: 
+  -
+    family-names: Belan
+    given-names: Peterson
+    orcid: "https://orcid.org/0000-0001-9529-1637"
+cff-version: "1.0.0"
+date-released: 2023-04-01
+identifiers: 
+  - 
+    type: url
+    value: "https://github.com/pbelan/python-Ciencia-de-Dados"
+license: "CC-BY-SA-4.0"
+message: "Se você usa esse software, por favor cite-o com esses metadados."
+repository-code: "https://github.com/pbelan/python-Ciencia-de-Dados"
+title: "Ciência de Dados com Python: pandas, matplotlib, Scikit-Learn, TensorFlow e PyTorch"
+version: 1.0.0
+...
